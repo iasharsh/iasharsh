@@ -1,15 +1,22 @@
-# Hi 👋 I'm Harsh Pandey
+<h2 align="center">👋 Hi, I'm Harsh Pandey</h2>
 
-🎓 B.Tech CSE Student | 💻 Developer | 🚀 Tech Enthusiast  
+<p align="center">
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer | 🧠 DSA (C++)
+</p>
+
+<p align="center">
+I’m interested in software development and enjoy building clean user interfaces while strengthening my problem-solving skills through Data Structures & Algorithms.
+</p>
+
 📍 India
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Web Development & DSA**
-- 🔭 Interested in **Full Stack Development**
-- 🎯 Goal: Crack internships & build real-world projects
-- ⚡ Fun fact: I love debugging more than coding 😄
+- 🌱 Currently learning **Front-End Web Development** and **DSA using C++**
+- 🔭 Interested in **Software Development**, including **Full-Stack Development**
+- 🎯 Goal: Crack **software development internships** and build **real-world projects**
+- ⚡ Fun fact: I enjoy debugging and understanding *why* things work 😄
 
 ---
 
@@ -24,14 +31,15 @@
 ---
 
 ## 📊 GitHub Stats
+> *Stats may not load sometimes due to API limits*
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: harshpandey2634@gmail.com
+- 📧 Email: **harshpandey2634@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/harsh-pandey-5970bb278/
-- 🌐 Portfolio: Coming soon 🚀
+- 🌐 Portfolio: *Coming soon 🚀*
