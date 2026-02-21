@@ -45,7 +45,7 @@ I’m interested in software development and enjoy building clean user interface
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iasharsh/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iasharsh/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
