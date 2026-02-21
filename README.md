@@ -1,0 +1,37 @@
+# Hi 👋 I'm Harsh Pandey
+
+🎓 B.Tech CSE Student | 💻 Developer | 🚀 Tech Enthusiast  
+📍 India
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **Web Development & DSA**
+- 🔭 Interested in **Full Stack Development**
+- 🎯 Goal: Crack internships & build real-world projects
+- ⚡ Fun fact: I love debugging more than coding 😄
+
+---
+
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+---
+
+## 🔗 Connect With Me
+- 📧 Email: harshpandey2634@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-pandey-5970bb278/
+- 🌐 Portfolio: Coming soon 🚀
