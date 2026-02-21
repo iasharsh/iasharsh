@@ -8,7 +8,7 @@
 I’m interested in software development and enjoy building clean user interfaces while strengthening my problem-solving skills through Data Structures & Algorithms.
 </p>
 
-📍 India
+<p align="center">📍 India</p>
 
 ---
 
@@ -31,15 +31,26 @@ I’m interested in software development and enjoy building clean user interface
 ---
 
 ## 📊 GitHub Stats
-> *Stats may not load sometimes due to API limits*
+> *Stats may not load sometimes due to GitHub API limits*
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iasharsh/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 - 📧 Email: **harshpandey2634@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/harsh-pandey-5970bb278/
+- 💼 LinkedIn: [Harsh Pandey](https://www.linkedin.com/in/harsh-pandey-5970bb278/)
 - 🌐 Portfolio: *Coming soon 🚀*
