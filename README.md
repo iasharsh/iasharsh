@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight&hide_border=true" />
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasharsh&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iasharsh&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
