@@ -53,6 +53,14 @@ I’m interested in software development and enjoy building clean user interface
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: **harshpandey2634@gmail.com**
-- 💼 LinkedIn: [Harsh Pandey](https://www.linkedin.com/in/harsh-pandey-5970bb278/)
-- 🌐 Portfolio: *Coming soon 🚀*
+<p align="center">
+  <a href="mailto:harshpandey2634@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/iasharsh">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://leetcode.com/iasharsh">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
+  </a>
+</p>
