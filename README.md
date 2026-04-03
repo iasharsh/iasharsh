@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Harsh%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
 <h2 align="center">👋 Hi, I'm Harsh Pandey</h2>
 
 <p align="center">
