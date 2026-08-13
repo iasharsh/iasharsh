@@ -54,7 +54,7 @@ I’m interested in software development and enjoy building clean user interface
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:harshpandey2634@gmail.com">
+  <a href="mailto:iasharsh34@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/iasharsh">
